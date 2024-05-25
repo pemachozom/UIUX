@@ -1,0 +1,243 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size:16px;
+	color: #676a81;
+	background: #fff;
+    max-width:1920px;
+    margin:0 auto;
+	overflow-x:hidden;
+}
+
+.aboutproject{
+    position: relative;
+    left: 10%;
+    top: 30vh;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 1px solid black;
+    width: 80%;
+}
+
+.aboutproject .items{
+    display: block;
+    text-align: center;
+    margin: 20px;
+    /* border: 1px solid black; */
+
+    width:85% ;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 35vh;
+    font-size: 25px;
+}
+.pain{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 40vh;
+    background: #DCBFFF;
+
+}
+
+.pain .items{
+    margin: 20px;
+}
+
+.persona{
+    position: relative;
+    top: 60vh;
+}
+
+.persona h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.persona img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+}
+
+
+.map{
+    position: relative;
+    top: 75vh;
+}
+
+.map h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.map img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+}
+
+.paper{
+    position: relative;
+    top: 85vh;
+}
+
+.paper h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.paper p{
+    text-align: center;
+}
+
+.paper img{
+    position: relative;
+    top: -180px;
+    left: 30%;
+    width: 45%;
+    transform: rotate(-90deg);
+
+}
+
+.digital{
+    position: relative;
+    top: 35vh;
+ 
+}
+
+.digital h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.digital p{
+    
+    text-align: center;
+}
+
+.digital img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+ }
+
+.lowprototype{
+    position: relative;
+    top: 55vh;
+ 
+}
+
+.lowprototype h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.lowprototype p{
+    text-align: center;
+    position: relative;
+    left:15%;
+    width: 70%;
+}
+
+.lowprototype img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+}
+
+.highprototype{
+    position: relative;
+    top: 75vh;
+}
+
+.highprototype h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.highprototype p{
+    text-align: center;
+    position: relative;
+    left:15%;
+    width: 70%;
+}
+
+.highprototype img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+}
+.finding{
+    position: relative;
+    top: 85vh;
+}
+
+.finding h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.finding p{
+    text-align: center;
+    position: relative;
+    left:15%;
+    width: 70%;
+}
+
+.finding img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+}
+
+.consid{
+    position: relative;
+    top: 95vh;
+}
+
+.consid h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.consid p{
+    text-align: center;
+    position: relative;
+    left:15%;
+    width: 70%;
+}
+
+.consid img{
+    position: relative;
+    top: 10px;
+    left: 15%;
+    width: 70%;
+}
+
+.learning{
+    display: grid;
+    grid-template-columns: auto auto;
+    position: relative;
+    left: 10%;
+    top: 115vh;
+    width: 80%;
+   text-align: center;
+   height: 40vh;
+   
+ }
+ 

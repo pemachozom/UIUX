@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size:16px;
+	color: #676a81;
+	background: #fff;
+    max-width:1920px;
+    margin:0 auto;
+	overflow-x:hidden;
+}
+
+.aboutproject{
+    position: relative;
+    left: 10%;
+    top: 30vh;
+    display: grid;
+    grid-template-columns: auto auto;
+    /* border: 1px solid black; */
+    width: 80%;
+}
+
+.aboutproject .items{
+    display: block;
+    text-align: center;
+    margin: 20px;
+    width:45% ;
+}
+
+#phoneC{
+    position: relative;
+    bottom: 32vh;
+    left: 43%;
+    height: 60vh;
+    width: 5cm;
+    z-index: 0;
+}
+
+
+.persona{
+    position: relative;
+    left: 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.persona .items{
+    margin: 20px;
+}
+.persona h2{
+    font-size: 25px;
+}
+
+.persona img{
+    width: 90%;
+}
+
+.audit{
+    position: relative;
+    top: 10vh;
+    left: 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.audit .items{
+    margin: 20px;
+}
+.audit img{
+    width: 90%;
+}
+
+.report{
+    position: relative;
+    top: 20vh;
+    left: 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.report .items{
+    margin: 20px;
+}
+.report img{
+    width: 90%;
+}
+
+#storyb{
+    width: 60%;
+    position: relative;
+    top: 35vh;
+    left: 20%;
+}
+#storyb2{
+    width: 60%;
+    position: relative;
+    top: 50vh;
+    left: 20%;
+}
+#digital{
+    width: 60%;
+    position: relative;
+    top: 75vh;
+    left: 20%;
+}
+#lowf{
+    width: 60%;
+    position: relative;
+    top: 85vh;
+    left: 20%;
+}
+#use{
+    width: 60%;
+    position: relative;
+    top: 95vh;
+    left: 20%;
+}
+
+#mock{
+    width: 60%;
+    position: relative;
+    top: 100vh;
+    left: 20%;
+}
+
+.paperwireframe{
+    position: relative;
+    top: 65vh;
+    left: 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.paperwireframe .items{
+    margin: 20px;
+}
+.paperwireframe h2{
+    font-size: 25px;
+}
+
+.paperwireframe img{
+    width: 90%;
+}
+
+.takeaway{
+    position: relative;
+    left: 10%;
+    top: 120vh;
+    display: grid;
+    grid-template-columns: auto auto;
+    /* border: 1px solid black; */
+    width: 80%;
+}
+
+.takeaway .items{
+    display: block;
+    text-align: center;
+    margin: 20px;
+    width:75% ;
+}
